@@ -198,7 +198,7 @@ public class Main {
             return;
         }
 
-        System.out.println("Category: " + meals.getFirst().getCategory());
+        System.out.println("Category: " + meals.get(0).getCategory());
 
         for (Meal meal : meals) {
             System.out.println("\nName: " + meal.getName()
