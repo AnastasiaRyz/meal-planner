@@ -7,6 +7,9 @@
 Проект разработан в рамках обучения на платформе [Hyperskill (JetBrains Academy)](https://hyperskill.org).
 
 ---
+## Демо
+![App Demo](assets/mealPlanner.gif)
+---
 
 ## Краткое описание
 
@@ -29,9 +32,6 @@
 - Разделение логики приложения (DAO-слой)
 
 - Генерация файлов со списком покупок
----
-## Демо
-![App Demo](assets/mealPlanner.gif)
 ---
 
 ## Используемые технологии
