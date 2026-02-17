@@ -1,7 +1,7 @@
 ## Meal Planner
 ![Java](https://img.shields.io/badge/Java-17-orange)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
-![Gradle](https://img.shields.io/badge/Gradle-Build-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=PostgreSQL)
+![Gradle](https://img.shields.io/badge/Gradle-Build-green?logo=Gradle)
 
 **Meal Planner** - консольное Java-приложение для планирования еженедельного питания и составления списка покупок. 
 Проект разработан в рамках обучения на платформе [Hyperskill (JetBrains Academy)](https://hyperskill.org).
@@ -29,6 +29,9 @@
 - Разделение логики приложения (DAO-слой)
 
 - Генерация файлов со списком покупок
+---
+## Демо
+![App Demo](assets/mealPlanner.gif)
 ---
 
 ## Используемые технологии
@@ -77,5 +80,4 @@
     ````
     ./gradlew run
     ````
-   
 ---

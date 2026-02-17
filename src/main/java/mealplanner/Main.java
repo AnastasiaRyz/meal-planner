@@ -1,6 +1,5 @@
 package mealplanner;
 
-import java.io.BufferedInputStream;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -266,14 +265,6 @@ public class Main {
             System.out.println("Unable to save. Plan your meals first.");
             return;
         }
-
-        /*eggs
-        tomato x3
-        beef
-        broccoli
-        salmon
-        chicken x2*/
-
         System.out.println("Input a filename:");
         String fileName = scanner.nextLine();
 
